@@ -1,3 +1,7 @@
 print('Hello, DimProkopev!')
 
-print('Its your test on GH!')
+c = 1
+a = 2
+b = a + c
+
+print(b)
